@@ -1,11 +1,11 @@
 ## About me ⭐
 - 🤓 I'm **Seventeen**
-- 🔭 I’m currently working on **Intelbras**
-- 🌱 I’m currently learning **Java**
+- 🔭 I’m currently working on **Opens**
+- 🌱 I’m currently learning **JavaScript**
 
 
 ## Skils
-<img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <br/>
 
 
